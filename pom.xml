@@ -12,7 +12,7 @@
   <artifactId>kafkadeck</artifactId>
   <version>4.3.1-SNAPSHOT</version>
 
-  <description>Real-Time Apache Kafka Event Stream Visualizer & Partition Lag Explorer by Sarthak Mun</description>
+  <description>Real-Time Apache Kafka Event Stream Visualizer and Partition Lag Explorer by Sarthak Mun</description>
 
   <properties>
     <additionalparam>-Xdoclint:none</additionalparam>
