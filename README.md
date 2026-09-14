@@ -86,6 +86,3 @@ java --add-opens=java.base/sun.nio.ch=ALL-UNNAMED      -jar target/kafkadeck-*.j
 3. **Zero-Overhead Memory Footprint:** Efficient binary stream decoders processing gigabyte-sized partition batches in **< 64MB JVM heap**.
 
 ---
-
-## 📄 License
-This project is open-source under the [Apache License 2.0](LICENSE).
