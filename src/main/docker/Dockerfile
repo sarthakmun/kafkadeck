@@ -1,4 +1,4 @@
-FROM eclipse-temurin:25.0.4_7-jdk
+FROM eclipse-temurin:25.0.5.1_2-jdk
 
 ADD kafdrop.sh /
 ADD maven/ /kafdrop/
